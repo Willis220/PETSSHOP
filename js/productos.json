@@ -1,0 +1,482 @@
+[
+    {
+        "id": "comida-01",
+        "titulo": "Comida 01",
+        "imagen": "./img/productos/alimentos/comida1.jpg",
+        "categoria": {
+            "nombre": "Comida",
+            "id": "comida"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-02",
+        "titulo": "Comida 02",
+        "imagen": "./img/productos/alimentos/comida2.jpg",
+        "categoria": {
+            "nombre": "Comida",
+            "id": "comida"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-03",
+        "titulo": "Comida 03",
+        "imagen": "./img/productos/alimentos/comida3.jpg",
+        "categoria": {
+            "nombre": "Comida",
+            "id": "comida"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-04",
+        "titulo": "Comida 04",
+        "imagen": "./img/productos/alimentos/comida4.jpg",
+        "categoria": {
+            "nombre": "Comida",
+            "id": "comida"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-05",
+        "titulo": "Comida 05",
+        "imagen": "./img/productos/alimentos/comida5.jpg",
+        "categoria": {
+            "nombre": "Comida",
+            "id": "comida"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-06",
+        "titulo": "Comida 06",
+        "imagen": "./img/productos/alimentos/comida6.jpg",
+        "categoria": {
+            "nombre": "Comida",
+            "id": "comida"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-07",
+        "titulo": "Comida 07",
+        "imagen": "./img/productos/alimentos/comida7.jpg",
+        "categoria": {
+            "nombre": "Comida",
+            "id": "comida"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-08",
+        "titulo": "Comida 08",
+        "imagen": "./img/productos/alimentos/comida8.jpg",
+        "categoria": {
+            "nombre": "Comida",
+            "id": "comida"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-09",
+        "titulo": "Comida 09",
+        "imagen": "./img/productos/alimentos/comida9.jpg",
+        "categoria": {
+            "nombre": "Comida",
+            "id": "comida"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-10",
+        "titulo": "Comida 10",
+        "imagen": "./img/productos/alimentos/comida10.jpg",
+        "categoria": {
+            "nombre": "Comida",
+            "id": "comida"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-11",
+        "titulo": "Comida 11",
+        "imagen": "./img/productos/alimentos/comida11.jpg",
+        "categoria": {
+            "nombre": "Comida",
+            "id": "comida"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-12",
+        "titulo": "Comida 12",
+        "imagen": "./img/productos/alimentos/comida12.jpg",
+        "categoria": {
+            "nombre": "Comida",
+            "id": "comida"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "Accesorio 01",
+        "imagen": "./img/productos/accesorios/accesorio1.jpg",
+        "categoria": {
+            "nombre": "Accesorio",
+            "id": "accesorio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-02",
+        "titulo": "Accesorio 02",
+        "imagen": "./img/productos/accesorios/accesorio2.jpg",
+        "categoria": {
+            "nombre": "Accesorio",
+            "id": "accesorio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-03",
+        "titulo": "Accesorio 03",
+        "imagen": "./img/productos/accesorios/accesorio3.jpg",
+        "categoria": {
+            "nombre": "Accesorio",
+            "id": "accesorio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-04",
+        "titulo": "Accesorio 04",
+        "imagen": "./img/productos/accesorios/accesorio4.jpg",
+        "categoria": {
+            "nombre": "Accesorio",
+            "id": "accesorio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-05",
+        "titulo": "Accesorio 05",
+        "imagen": "./img/productos/accesorios/accesorio5.jpg",
+        "categoria": {
+            "nombre": "Accesorio",
+            "id": "accesorio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-06",
+        "titulo": "Accesorio 06",
+        "imagen": "./img/productos/accesorios/accesorio6.jpg",
+        "categoria": {
+            "nombre": "Accesorio",
+            "id": "accesorio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-07",
+        "titulo": "Accesorio 07",
+        "imagen": "./img/productos/accesorios/accesorio7.jpg",
+        "categoria": {
+            "nombre": "Accesorio",
+            "id": "accesorio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-08",
+        "titulo": "Accesorio 08",
+        "imagen": "./img/productos/accesorios/accesorio8.jpg",
+        "categoria": {
+            "nombre": "Accesorio",
+            "id": "accesorio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-09",
+        "titulo": "Accesorio 09",
+        "imagen": "./img/productos/accesorios/accesorio9.jpg",
+        "categoria": {
+            "nombre": "Accesorio",
+            "id": "accesorio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-10",
+        "titulo": "Accesorio 10",
+        "imagen": "./img/productos/accesorios/accesorio10.jpg",
+        "categoria": {
+            "nombre": "Accesorio",
+            "id": "accesorio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-11",
+        "titulo": "Accesorio 11",
+        "imagen": "./img/productos/accesorios/accesorio11.jpg",
+        "categoria": {
+            "nombre": "Accesorio",
+            "id": "accesorio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-12",
+        "titulo": "Accesorio 12",
+        "imagen": "./img/productos/accesorios/accesorio12.jpg",
+        "categoria": {
+            "nombre": "Accesorio",
+            "id": "accesorio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medicamento-01",
+        "titulo": "Medicamento 01",
+        "imagen": "./img/productos/medicamentos/medicamento1.jpg",
+        "categoria": {
+            "nombre": "Medicamento",
+            "id": "medicamento"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medicamento-02",
+        "titulo": "Medicamento 02",
+        "imagen": "./img/productos/medicamentos/medicamento2.jpg",
+        "categoria": {
+            "nombre": "Medicamento",
+            "id": "medicamento"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medicamento-03",
+        "titulo": "Medicamento 03",
+        "imagen": "./img/productos/medicamentos/medicamento3.jpg",
+        "categoria": {
+            "nombre": "Medicamento",
+            "id": "medicamento"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medicamento-04",
+        "titulo": "Medicamento 04",
+        "imagen": "./img/productos/medicamentos/medicamento4.jpg",
+        "categoria": {
+            "nombre": "Medicamento",
+            "id": "medicamento"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medicamento-05",
+        "titulo": "Medicamento 05",
+        "imagen": "./img/productos/medicamentos/medicamento5.jpg",
+        "categoria": {
+            "nombre": "Medicamento",
+            "id": "medicamento"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medicamento-06",
+        "titulo": "Medicamento 06",
+        "imagen": "./img/productos/medicamentos/medicamento6.jpg",
+        "categoria": {
+            "nombre": "Medicamento",
+            "id": "medicamento"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medicamento-07",
+        "titulo": "Medicamento 07",
+        "imagen": "./img/productos/medicamentos/medicamento7.jpg",
+        "categoria": {
+            "nombre": "Medicamento",
+            "id": "medicamento"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medicamento-08",
+        "titulo": "Medicamento 08",
+        "imagen": "./img/productos/medicamentos/medicamento8.jpg",
+        "categoria": {
+            "nombre": "Medicamento",
+            "id": "medicamento"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medicamento-09",
+        "titulo": "Medicamento 09",
+        "imagen": "./img/productos/medicamentos/medicamento9.jpg",
+        "categoria": {
+            "nombre": "Medicamento",
+            "id": "medicamento"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medicamento-10",
+        "titulo": "Medicamento 10",
+        "imagen": "./img/productos/medicamentos/medicamento10.jpg",
+        "categoria": {
+            "nombre": "Medicamento",
+            "id": "medicamento"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medicamento-11",
+        "titulo": "Medicamento 11",
+        "imagen": "./img/productos/medicamentos/medicamento11.jpg",
+        "categoria": {
+            "nombre": "Medicamento",
+            "id": "medicamento"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "medicamento-12",
+        "titulo": "Medicamento 12",
+        "imagen": "./img/productos/medicamentos/medicamento12.jpg",
+        "categoria": {
+            "nombre": "Medicamento",
+            "id": "medicamento"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "snack-01",
+        "titulo": "Snack 01",
+        "imagen": "./img/productos/snacks/snack1.jpg",
+        "categoria": {
+            "nombre": "Snack",
+            "id": "snack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "snack-02",
+        "titulo": "Snack 02",
+        "imagen": "./img/productos/snacks/snack2.jpg",
+        "categoria": {
+            "nombre": "Snack",
+            "id": "snack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "snack-03",
+        "titulo": "Snack 03",
+        "imagen": "./img/productos/snacks/snack3.jpg",
+        "categoria": {
+            "nombre": "Snack",
+            "id": "snack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "snack-04",
+        "titulo": "Snack 04",
+        "imagen": "./img/productos/snacks/snack4.jpg",
+        "categoria": {
+            "nombre": "Snack",
+            "id": "snack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "snack-05",
+        "titulo": "Snack 05",
+        "imagen": "./img/productos/snacks/snack5.jpg",
+        "categoria": {
+            "nombre": "Snack",
+            "id": "snack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "snack-06",
+        "titulo": "Snack 06",
+        "imagen": "./img/productos/snacks/snack6.jpg",
+        "categoria": {
+            "nombre": "Snack",
+            "id": "snack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "snack-07",
+        "titulo": "Snack 07",
+        "imagen": "./img/productos/snacks/snack7.jpg",
+        "categoria": {
+            "nombre": "Snack",
+            "id": "snack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "snack-08",
+        "titulo": "Snack 08",
+        "imagen": "./img/productos/snacks/snack8.jpg",
+        "categoria": {
+            "nombre": "Snack",
+            "id": "snack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "snack-09",
+        "titulo": "Snack 09",
+        "imagen": "./img/productos/snacks/snack9.jpg",
+        "categoria": {
+            "nombre": "Snack",
+            "id": "snack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "snack-10",
+        "titulo": "Snack 10",
+        "imagen": "./img/productos/snacks/snack10.jpg",
+        "categoria": {
+            "nombre": "Snack",
+            "id": "snack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "snack-11",
+        "titulo": "Snack 11",
+        "imagen": "./img/productos/snacks/snack11.jpg",
+        "categoria": {
+            "nombre": "Snack",
+            "id": "snack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "snack-12",
+        "titulo": "Snack 12",
+        "imagen": "./img/productos/snacks/snack12.jpg",
+        "categoria": {
+            "nombre": "Snack",
+            "id": "snack"
+        },
+        "precio": 1000
+    }
+]
